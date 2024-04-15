@@ -1,5 +1,5 @@
 Hi i'm @ykdman
-I'm Studying UiPath(RPA) React, Javascript, Python, Js, Node, Back-end System etc...
+I'm Studying React, Javascript, Python, Js, Node, Back-end System etc...
 i'm glad to join developers world!
 have a good Day!
 
