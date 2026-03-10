@@ -18,7 +18,8 @@ My goal is to become a full-stack programmer.
 <br />
 
 <hr />
-
+<img src="https://github-readme-stats.vercel.app/api?username=ykdman&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykdman&theme=dark"
 </div>
   
 
