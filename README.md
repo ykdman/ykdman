@@ -7,7 +7,7 @@ I'm interested in Javascript, TypeScript, Node.js
 My goal is to become a full-stack programmer.
 
 <div align="center">
-<b>Email</b> : <a href="mailto:dbsrudejr300@gmail.com">
+<b>Email</b> : <a href="mailto:ykd.dev.0211@gmail.com">
 <img src="https://img.shields.io/badge/dbsrudejr300@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
 <br />
