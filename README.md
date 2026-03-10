@@ -8,18 +8,17 @@ My goal is to become a full-stack programmer.
 
 <div align="center">
 <b>Email</b> : <a href="mailto:ykd.dev.0211@gmail.com">
-<img src="https://img.shields.io/badge/dbsrudejr300@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/ykd.dev.0211@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
 <br />
-<b>Blog</b> : <a href="https://ykdman.github.io/">
+<b>Blog</b> : <a href="https://kdman-dev-life.tistory.com/">
   
-<img src="https://img.shields.io/badge/ykdman.github.io-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white">
+<img src="https://img.shields.io/badge/kdman.dev.life-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white">
 </a>
 <br />
 
 <hr />
-<img src="https://github-readme-stats.vercel.app/api?username=ykdman&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykdman&theme=dark"
+
 </div>
   
 
